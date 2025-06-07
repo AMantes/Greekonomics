@@ -24,18 +24,13 @@ All data is sourced from Eurostat (https://ec.europa.eu/eurostat):
 
 To run the script, you’ll need R and the following packages:
 
-library(tidyverse)
-library(ggplot2)
-library(eurostat)
-library(dplyr)
-library(paletteer)
-library(grid)
-library(gridExtra)
-library(ggpubr)
-library(showtext)
-library(ggtext)
-library(tidyr)
-library(scales)
+- tidyverse
+- ggplot2
+- eurostat
+- dplyr
+- showtext
+-  tidyr
+- scales
 
 Install them with:
 
