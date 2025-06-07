@@ -88,7 +88,7 @@ Achilleas Mantes
 
 ### Platform: 
 
-Developed for the Greekonomics (https://www.youtube.com/@Greekonomics)
+Developed for Greekonomics (https://www.youtube.com/@Greekonomics)
 
 ### License
 
