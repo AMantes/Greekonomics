@@ -1,12 +1,12 @@
-# Greekonomics: The True State of the Greek Economy (Episode 51)
+# Greekonomics: The True State of the Greek Economy
 
 ### Overview
 
-This is a data-driven exploration of the Greek economy compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
+This is a data-driven exploration of the Greek economy (Greekonomics: Episode 51) compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
 
 ### Data Sources
 
-All data is sourced from Eurostat, the statistical office of the European Union (https://ec.europa.eu/eurostat). The datasets used include:
+All data is sourced from Eurostat (https://ec.europa.eu/eurostat):
 
 
 - tepsr_wc310: Real gross disposable income per capita
