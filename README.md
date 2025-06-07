@@ -2,21 +2,15 @@
 
 Greekonomics: Economic Analysis of the Greek Economy (Episode 51)
 
-Overview
+Overview and Purpose
 
-This is a data-driven exploration of the Greek economy compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk. These visualizations support a presentation for a popular science YouTube channel, focusing on labor market dynamics and economic hysteresis in Greece.
+This is a data-driven exploration of the Greek economy compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
 
-The script was developed for a high-profile event and complements two YouTube videos (one already trending with over 330,000 views). It aims to make complex economic data accessible and engaging while maintaining academic rigor.
-
-Purpose
-
-This project analyzes Greece's economic performance post-2008 crisis, highlighting persistent challenges like high youth unemployment, low-skill job dominance, and stagnant productivity. The visualizations compare Greece with the EU27 average and a cluster of the 10 poorest EU countries, providing insights into structural economic issues.
+The script aims to make complex economic data accessible and engaging while maintaining academic rigor.
 
 Data Sources
 
-All data is sourced from Eurostat, the statistical office of the European Union. Specific datasets used include:
-
-
+All data is sourced from Eurostat. Specific datasets used include:
 
 
 
@@ -117,11 +111,9 @@ The script produces plots for each indicator, which can be saved or displayed di
 
 Example:
 
-source("greekonomics.R")
+source("Greekonomics_51_public.R")
 
-To save plots, add ggsave() after each plot, e.g.:
 
-ggsave("real_gdp_per_capita.png", plot_real_GDP_per_capita, width = 8, height = 6, dpi = 300)
 
 Visualizations
 
@@ -165,27 +157,13 @@ Poverty or Social Exclusion: Percentage of the population at risk.
 
 Labor Productivity: Compensation per hour worked as a proxy for productivity trends.
 
-Each plot uses a custom color palette and the theme_greekonomics for a professional, visually appealing style.
-
-Credits
 
 
+Data: Eurostat ([https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat/en/))
 
 
 
-Data: Eurostat (https://ec.europa.eu/eurostat)
-
-
-
-Typography: Google Fonts (Roboto, Roboto Condensed)
-
-
-
-Inspiration: This project was developed for [Influencer's YouTube Channel Name], a popular science platform dedicated to making economics accessible.
-
-
-
-Author: [Your Name], economic analyst for Greekonomics project.
+Author: Achilleas Mantes
 
 License
 
@@ -193,4 +171,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 Contact
 
-For questions or feedback, reach out via [Your Contact Info, e.g., email or GitHub profile]. Follow [Influencer's YouTube Channel Name] for updates on the Greekonomics project!
+For questions or feedback, reach out via my Github page. Follow [https://www.youtube.com/@Greekonomics] for updates on the Greekonomics project!
