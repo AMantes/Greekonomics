@@ -34,7 +34,7 @@ To run the script, you’ll need R and the following packages:
 
 Install them with:
 
-install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "paletteer", "grid", "gridExtra", "ggpubr", "showtext", "ggtext", "tidyr", "scales"))
+install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "showtext", "ggtext", "tidyr", "scales"))
 
 Ensure you have an internet connection to fetch Eurostat data and Google Fonts (Roboto and Roboto Condensed) for the visualizations’ typography.
 
