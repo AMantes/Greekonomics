@@ -82,19 +82,18 @@ The script produces the following visualizations, each designed to tell a story 
 ### Data: Eurostat (https://ec.europa.eu/eurostat)
 
 
-### Author: Achilleas Mantes
+### Author: 
 
-### Platform: Developed for the Greekonomics YouTube channel (https://www.youtube.com/@Greekonomics)
+Achilleas Mantes
 
-## License
+### Platform: 
+
+Developed for the Greekonomics (https://www.youtube.com/@Greekonomics)
+
+### License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided you credit the original author and data sources.
 
-# Contact
+#### Contact
 
-Have questions or feedback? Reach out via my GitHub profile. For more insights into the Greek economy, subscribe to the Greekonomics YouTube channel at https://www.youtube.com/@Greekonomics and stay tuned for updates!
-
-
-
-“Understanding the economy isn’t just about numbers—it’s about people, choices, and the future. Let’s dive into the true state of Greece!”
-— Greekonomics Team
+Have questions or feedback? Reach out via my GitHub profile.
