@@ -4,12 +4,6 @@
 
 This is a data-driven exploration of the Greek economy compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
 
-The script aims to make complex economic data accessible and engaging while maintaining academic rigor.
-
-### Purpose
-
-The Greekonomics project dives deep into Greece’s economic landscape post-2008 crisis, highlighting issues like persistent unemployment, reliance on low-skill jobs, and stagnant productivity. By comparing Greece to the EU27 and a cluster of the 10 poorest EU countries (Bulgaria, Hungary, Latvia, Croatia, Poland, Lithuania, Slovakia, Estonia, Czechia, Romania), the visualizations reveal structural hurdles and spark discussion about Greece’s economic future.
-
 ### Data Sources
 
 All data is sourced from Eurostat, the statistical office of the European Union (https://ec.europa.eu/eurostat). The datasets used include:
