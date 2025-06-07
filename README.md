@@ -81,4 +81,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 #### Contact
 
-Have questions or feedback? Reach out via my GitHub profile.
+Have questions or feedback? Feel free to reach out.
