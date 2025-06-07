@@ -1,6 +1,6 @@
 # Greekonomics
 
-Greekonomics: Economic Analysis of the Greek Economy (Episode 51)
+The true state of the Greek Economy (Episode 51)
 
 Overview and Purpose
 
