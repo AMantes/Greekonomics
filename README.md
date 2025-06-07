@@ -40,9 +40,6 @@ Ensure you have an internet connection to fetch Eurostat data and Google Fonts (
 
 ### Usage
 
-Follow these steps to explore the Greek economy with the Greekonomics script:
-
-
 - Clone or Download: Clone this repository or download the Greekonomics_51_public.R script.
 - Install Packages: Ensure all required R packages are installed (see above).
 - Run the Script: Execute the script in R or RStudio. It will:
