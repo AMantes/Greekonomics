@@ -46,24 +46,23 @@ Ensure you have an internet connection to fetch Eurostat data and Google Fonts (
 
   - Fetch data from Eurostat for the specified indicators.
   - Process data to compare Greece, EU27, and the Bottom 10 EU countries.
-  - Generate visualizations using a custom theme_greekonomics for a polished, consistent look.
-  - View Plots: The script displays plots directly. To save them, add ggsave() after each plot, e.g.: ggsave("real_gdp_per_capita.png", plot_real_GDP_per_capita, width = 8, height = 6, dpi = 300)
+  - Generate visualizations. The script displays plots directly.
 - Run the script with:
   - source("Greekonomics_51_public.R")
 
 ### Visualizations
 
-The script produces the following visualizations, each designed to tell a story about Greece’s economy:
+The script produces the following visualizations, as they appear in the Greekonomics episode 51:
 
-- Real Gross Disposable Income Per Capita: Index (2008 = 100), showing Greece’s stagnation compared to EU27 and Bottom 10.
-- Real GDP Per Capita (PPS and Constant Prices): Trends in purchasing power and constant price terms.
-- Government Debt: Debt-to-GDP ratio, highlighting Greece’s high debt burden.
-- Current Account Balance: Percentage of GDP, reflecting trade and financial flows.
-- Sectoral Investment: Capital stock across the top 7 industries (e.g., real estate, manufacturing).
-- Unemployment Rates: Youth (15-24) and total (15-74) unemployment trends.
-- Overqualification Rates: Share of tertiary-educated workers in low/mid-skill jobs.
-- Poverty or Social Exclusion: Percentage of the population at risk.
-- Labor Productivity: Compensation per hour worked as a proxy for productivity trends.
+- Real Gross Disposable Income Per Capita
+- Real GDP Per Capita (PPS and Constant Prices)
+- Government Debt: Debt-to-GDP ratio
+- Current Account Balance: Percentage of GDP
+- Sectoral Investment: Capital stock across the top 7 industries
+- Unemployment Rates: Youth (15-24) and total (15-74)
+- Overqualification Rates: Share of tertiary-educated workers in low/mid-skill jobs
+- Poverty or Social Exclusion: Percentage of the population at poverty risk
+- Labor Productivity: Nominal compensation per hour worked
 
 ### Data: Eurostat (https://ec.europa.eu/eurostat)
 
