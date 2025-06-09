@@ -40,7 +40,7 @@ Ensure you have an internet connection to fetch Eurostat data and Google Fonts (
 
 ### Visualizations
 
-The script produces the following visualizations, as they appear in the Greekonomics episode 51:
+The script produces the following visualizations:
 
 - Real Gross Disposable Income Per Capita
 - Real GDP Per Capita (PPS and Constant Prices)
