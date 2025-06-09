@@ -38,18 +38,6 @@ install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "showtext", "ggt
 
 Ensure you have an internet connection to fetch Eurostat data and Google Fonts (Roboto and Roboto Condensed) for the visualizations’ typography.
 
-### Usage
-
-- Clone or Download: Clone this repository or download the Greekonomics_51_public.R script.
-- Install Packages: Ensure all required R packages are installed (see above).
-- Run the Script: Execute the script in R or RStudio. It will:
-
-  - Fetch data from Eurostat for the specified indicators.
-  - Process data to compare Greece, EU27, and the Bottom 10 EU countries.
-  - Generate visualizations. The script displays plots directly.
-- Run the script with:
-  - source("Greekonomics_51_public.R")
-
 ### Visualizations
 
 The script produces the following visualizations, as they appear in the Greekonomics episode 51:
