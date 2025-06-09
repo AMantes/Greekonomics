@@ -52,7 +52,9 @@ The script produces the following visualizations:
 - Poverty or Social Exclusion: Percentage of the population at poverty risk
 - Labor Productivity: Nominal compensation per hour worked
 
-### Data: Eurostat (https://ec.europa.eu/eurostat)
+### Data: 
+
+Eurostat (https://ec.europa.eu/eurostat)
 
 
 ### Author: 
