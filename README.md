@@ -39,10 +39,13 @@ To run the script, you’ll need R and the following packages:
 - showtext
 -  tidyr
 - scales
+- readxl
+- survey
+- sysfonts
 
 Install them with:
 
-install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "showtext", "ggtext", "tidyr", "scales"))
+install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "showtext", "ggtext", "tidyr", "scales","readxl","survey","gridExtra","sysfonts"))
 
 Ensure you have an internet connection to fetch Eurostat data and Google Fonts (Roboto and Roboto Condensed) for the visualizations’ typography.
 
