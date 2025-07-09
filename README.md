@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a data-driven exploration of the Greek economy (Greekonomics: Episode 51) compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
+This is a data-driven exploration of the Greek economy (Greekonomics: Episode 51 and 52) compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
 
 ### Data Sources
 
@@ -19,6 +19,14 @@ All data is sourced from Eurostat (https://ec.europa.eu/eurostat):
 - lfsa_eoqgan: Overqualification rates
 - tipslc10: People at risk of poverty or social exclusion
 - nama_10_lp_ulc: Compensation of employees per hour worked
+- tipslc30: Severely materially and socially deprived people
+- sdg_16_20: Population reporting occurrence of crime, violence or vandalism in their area
+- sdg_03_60: Self-reported unmet need for medical examination and care
+- sdg_01_50: Housing cost overburden rate by poverty status
+- tipsho20: Housing index
+- nama_10_lp_ulc: Unit labour costs
+- tipsun20: Unemployment
+- lfsa_eoqgan: Overqualification
 
 ### Requirements
 
@@ -37,6 +45,8 @@ Install them with:
 install.packages(c("tidyverse", "ggplot2", "eurostat", "dplyr", "showtext", "ggtext", "tidyr", "scales"))
 
 Ensure you have an internet connection to fetch Eurostat data and Google Fonts (Roboto and Roboto Condensed) for the visualizations’ typography.
+
+Note: To run the income distribution analysis, you will need to download the SILC (Survey on Income and Living Conditions) and HBS (Household Budget Survey) microdata databases separately. These databases are not included in this repository and must be obtained from here: https://www.statistics.gr/public-use-files
 
 ### Visualizations
 
