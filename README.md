@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a data-driven exploration of the Greek economy (Greekonomics: Episode 51 and 52) compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
+This is a data-driven exploration of the Greek economy (Greekonomics: Episodes 51 and 52) compared to the EU27 and the 10 poorest EU countries. This repository contains an R script that generates visualizations for key economic indicators, including real disposable income, GDP per capita, unemployment, government debt, current account balance, sectoral investment, overqualification rates, and poverty risk.
 
 ### Data Sources
 
